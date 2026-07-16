@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @xstarlin
 - 👀 I’m interested in Video games
-- 🌱 I’m currently learning game design at Full Sail University
-- 💞️ I’m looking to collaborate on All the mods team, New World team.
-- 📫 How to reach me ...
+- 🌱 I have a master's in Game Design
+- 💞️ I modded Minecraft and city builders
 
 <!---
 xstarlin/xstarlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
